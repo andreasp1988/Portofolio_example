@@ -246,7 +246,7 @@ footer div {
     
     margin:0 auto;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.4rem;
     animation: heart-pulse 1s infinite ease-out;
 }
 
@@ -255,7 +255,7 @@ footer div {
       transform: scale(0);
     }
     50% {
-      transform: scale(1.1);
+      transform: scale(1.0);
     }
     70% {
       transform: scale(0.65);
