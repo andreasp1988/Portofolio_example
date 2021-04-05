@@ -58,7 +58,7 @@ main article:nth-of-type(2) {
     
     background: url(../img/portfolio3.png) center / cover;
     padding-left: 14%;
-    background-size: cover;
+    
 }
 
 main article:nth-of-type(3) {
