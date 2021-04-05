@@ -194,7 +194,7 @@ aside {
 }
 
 aside div {
-    padding:5%;
+    padding-bottom: 5% ;
 }
 
 aside h1 {
@@ -204,6 +204,7 @@ aside h1 {
     text-align: center;
     padding-top: 5%;
     font-family: "Didact Gothic", sans-serif;
+    margin:0;
 
 }
 
