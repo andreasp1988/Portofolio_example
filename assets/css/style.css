@@ -74,7 +74,6 @@ main article h3 {
 }
 
 main article:nth-child(even) h3 {
-    
     color: #000;
 }
 
