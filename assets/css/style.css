@@ -6,7 +6,6 @@ font-family: 'Work Sans', sans-serif;*/
 /*Body*/
 
 body {
-    
     margin: 0;
     padding: 0;
 }
@@ -14,12 +13,10 @@ body {
 /*Header*/
 
 header {
-    
     text-align: center;
 }
 
 header h1 {
-    
     font-size: 1.0rem;
     font-weight: 100;
     width: 300px;
@@ -28,7 +25,6 @@ header h1 {
 }
 
 header h2 {
-    
     font-size: 4rem;
     width: 300px;
     margin: 70px auto;
@@ -37,7 +33,6 @@ header h2 {
 }
 
 header p {
-    
     font-size: 7rem;
     margin: 70px auto;
     text-transform: uppercase;
@@ -48,35 +43,30 @@ header p {
 /*Backg.Images*/
 
 main article:first-of-type {
-    
     background: url(../img/portfolio2.jpg) center / cover;
     padding-left: 14%;
     
 }
 
 main article:nth-of-type(2) {
-    
     background: url(../img/portfolio3.png) center / cover;
     padding-left: 14%;
-    background-size: cover;
+    
 }
 
 main article:nth-of-type(3) {
-    
     background:url(../img/portfolio4.jpg) center / cover;
     padding-left: 14%;
     
 }
 
 main article:last-of-type {
-   
     background: url(../img/portfolio5.png) center / cover;
     padding-left: 14%;
 }
 /* Main Styling */
 
 main article h3 {
-    
     padding-top: 5%;
     font-size: 2rem;
     margin: 0;
@@ -89,12 +79,10 @@ main article:nth-child(even) h3 {
 }
 
 main article:nth-child(odd) h3 {
-    
     color:#666;
 }
 
 main article div {
-    
     font-size: 10rem;
     text-transform: uppercase;
     padding-bottom: 4%;
@@ -102,24 +90,20 @@ main article div {
 }
 
 main article:nth-child(odd) div {
-    
     color: white;
 }
 
 main article:nth-child(even) div {
-    
     color: #000;
 }
 
 main article h4 {
-    
     font-family: 'Didact Gothic', sans-serif;
     font-size: 1.1rem;
 }
 
 main article:nth-child(odd) h4 {
-   
-    color: #666;
+   color: #666;
     margin: 0;
     padding-bottom: 5%;
     font-size: 2rem;
@@ -168,18 +152,15 @@ main article:nth-child(even) a {
 }
 
 main article:nth-child(odd) a:hover {
-   
-    background: white;
+   background: white;
     color: black;
 }
 main article:nth-child(odd) a:hover + h1 {
-    
     color: white;
 }
 
 main article:nth-child(even) a:hover {
-   
-    background:#000;
+   background:#000;
     color: white;
 }
 main article:nth-child(even) a:hover + h1 {
@@ -189,7 +170,6 @@ main article:nth-child(even) a:hover + h1 {
 /* Aside Styling */
 
 aside {
-    
     background: #000;
 }
 
@@ -198,7 +178,6 @@ aside div {
 }
 
 aside h1 {
-    
     color: white;
     font-size: 15rem;
     text-align: center;
@@ -209,7 +188,6 @@ aside h1 {
 }
 
 aside p {
-   
     color: #666;
     font-size: 1.7rem;
     width: 42%;
@@ -220,7 +198,6 @@ aside p {
 }
 
 aside a {
-   
     font-size: 4rem;
     margin-left: 45%;
     text-decoration: none;
@@ -233,7 +210,6 @@ aside a {
 /* Footer Styling */
 
 footer a {
-    
     font-size: 10rem;
     text-align: center;
     margin: 10% auto;
@@ -249,7 +225,6 @@ footer a:hover {
 }
 
 footer div {
-    
     margin:0 auto;
     text-align: center;
     font-size: 1.4rem;
